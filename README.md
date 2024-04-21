@@ -1,0 +1,2 @@
+# AppSuper
+Aplicacion para supermercado
